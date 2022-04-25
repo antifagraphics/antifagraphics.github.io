@@ -10,6 +10,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Content
 
+### Make Racists Afraid Again
+![Nazis go six feet under](files/makeracistsafraid/makeracistsafraid.jpg)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/makeracistsafraid/makeracistsafraid.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/makeracistsafraid/makeracistsafraid.pdf) Original size: 10.5 x 10.5cm, 300dpi
+
 ### 6 feet under
 ![Nazis go six feet under](files/sixfeetunder/sixfeetunder.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/sixfeetunder/sixfeetunder.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/sixfeetunder/sixfeetunder.pdf) Original size: 10.5 x 7.4cm, 300dpi
