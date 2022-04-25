@@ -5,6 +5,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Make Racists Afraid Again](#make-racists-afraid-again) (Sticker)
 * [6 feet under](#6-feet-under) (Sticker)
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
