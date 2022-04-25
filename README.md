@@ -11,4 +11,4 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ### Antifa Zone — Always Antifascist
 ![Antifa Zone Sticker](files/antifazone/antifazone.jpg)
-[Download JPG](files/antifazone/antifazone.jpg), [Download PDF](files/antifazone/antifazone.pdf) Original size: 10.5 x 10.5cm, 300dpi
+[Download JPG](files/antifazone/antifazone.jpg), [Download PDF](files/antifazone/antifazone.pdf) Original size: 14.8 x 5.0cm, 300dpi
