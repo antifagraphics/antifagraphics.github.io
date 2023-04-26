@@ -5,11 +5,25 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Neurodivergents against bureaucracy](#neurodivergents-against-bureaucracy) (Sticker)
+* [Molli Your best friend for cocktail evenings](#molli-your-best-friend-for-cocktail-evenings) (Sticker)
 * [Make Racists Afraid Again](#make-racists-afraid-again) (Sticker)
 * [6 feet under](#6-feet-under) (Sticker)
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Fight Back Arm Trans People
+![Fight Back Arm Trans People](files/fightbackarmtranspeople/fightbackarmtrans.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fightbackarmtranspeople/fightbackarmtrans.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fightbackarmtranspeople/fightbackarmtrans.pdf) Original size: 14.8 x 10.5cm, 300dpi
+
+### Neurodivergents against bureaucracy
+![Neurodivergents against bureaucracy](files/neurodivergentsagainstbureaucracy/neurodivergents_against_bureaucracy.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergentsagainstbureaucracy/neurodivergents_against_bureaucracy.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergentsagainstbureaucracy/neurodivergents_against_bureaucracy.pdf) Original size: 9.8 x 9.8cm rounded, 300dpi
+
+### Molli Your best friend for cocktail evenings
+![Molli – Your best friend for cocktail evenings!](files/molli/molli_your_best_friend.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/molli/molli_your_best_friend.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/molli/molli_your_best_friend.pdf) Original size: 8.5 x 5.5cm, 300dpi
 
 ### Make Racists Afraid Again
 ![Nazis go six feet under](files/makeracistsafraid/makeracistsafraid.jpg)
