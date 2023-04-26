@@ -5,6 +5,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Fight Back Arm Trans People](#fight-back-arm-trans-people) (Sticker)
 * [Neurodivergents against bureaucracy](#neurodivergents-against-bureaucracy) (Sticker)
 * [Molli Your best friend for cocktail evenings](#molli-your-best-friend-for-cocktail-evenings) (Sticker)
 * [Make Racists Afraid Again](#make-racists-afraid-again) (Sticker)
