@@ -1,6 +1,7 @@
 # Antifa Graphics Archive
 
 Download the **high-resolution files** here and do whatever you want with them. You can use the files and print them yourself or even edit and redistribute them.
+**Anti-Copyright! Reprint freely, in any manner desired, even without naming the source.**
 
 
 ## Overview list
