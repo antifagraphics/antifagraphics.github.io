@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Anarchist Cat](#anarchist-cat) (Poster/Sticker)
 * [Fight Back Arm Trans People](#fight-back-arm-trans-people) (Sticker)
 * [Neurodivergents against bureaucracy](#neurodivergents-against-bureaucracy) (Sticker)
 * [Molli Your best friend for cocktail evenings](#molli-your-best-friend-for-cocktail-evenings) (Sticker)
@@ -14,6 +15,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Anarchist Cat
+![Anarchist Cat](files/fightbackarmtranspeople/fightbackarmtrans.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-cat/anarchist-cat.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-cat/anarchist-cat.pdf) Original size: 29.7 x 42cm, 300dpi
 
 ### Fight Back Arm Trans People
 ![Fight Back Arm Trans People](files/fightbackarmtranspeople/fightbackarmtrans.jpg)
