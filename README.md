@@ -17,7 +17,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ## Content
 
 ### Anarchist Cat
-![Anarchist Cat](files/fightbackarmtranspeople/fightbackarmtrans.jpg)
+![Anarchist Cat](files/anarchist-cat/anarchist-cat.jpg)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-cat/anarchist-cat.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-cat/anarchist-cat.pdf) Original size: 29.7 x 42cm, 300dpi
 
 ### Fight Back Arm Trans People
