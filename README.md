@@ -18,17 +18,17 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ## Content
 
 ### Abolish Authorities
+![Abolish Authorities](files/abolish-authorities/policecar_poster_white.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_white.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_01.pdf) Original size: 42 x 59.4cm, 300dpi
+
 ![Abolish Authorities](files/abolish-authorities/policecar_poster_blue.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_blue.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_01.pdf) Original size: 42 x 59.4cm, 300dpi
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_blue.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_02.pdf) Original size: 42 x 59.4cm, 300dpi
 
 ![Abolish Authorities](files/abolish-authorities/policecar_poster_magenta.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_magenta.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_02.pdf) Original size: 42 x 59.4cm, 300dpi
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_magenta.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_03.pdf) Original size: 42 x 59.4cm, 300dpi
 
 ![Abolish Authorities](files/abolish-authorities/policecar_poster_yellow.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_yellow.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_03.pdf) Original size: 42 x 59.4cm, 300dpi
-
-![Abolish Authorities](files/abolish-authorities/policecar_poster_white.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_white.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_04.pdf) Original size: 42 x 59.4cm, 300dpi
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/policecar_poster_yellow.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish-authorities/abolish_authorities_04.pdf) Original size: 42 x 59.4cm, 300dpi
 
 ### Anarchist Cat
 ![Anarchist Cat](files/anarchist-cat/anarchist_cat.jpg)
