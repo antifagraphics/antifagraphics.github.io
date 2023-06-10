@@ -6,7 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
-* [Abolish Authorities](#i-brick-nzs) (Sticker)
+* [I brick Nzs](#i-brick-nzs) (Sticker)
 * [Abolish Authorities](#abolish-authorities) (Poster)
 * [Anarchist Cat](#anarchist-cat) (Poster/Sticker)
 * [Fight Back Arm Trans People](#fight-back-arm-trans-people) (Sticker)
