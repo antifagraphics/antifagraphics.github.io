@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Abolish Authorities](#i-brick-nzs) (Sticker)
 * [Abolish Authorities](#abolish-authorities) (Poster)
 * [Anarchist Cat](#anarchist-cat) (Poster/Sticker)
 * [Fight Back Arm Trans People](#fight-back-arm-trans-people) (Sticker)
@@ -16,6 +17,16 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### I brick Nzs
+![I brick Nzs](files/i-brick-nzs/i-brick-nzs-yellow.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-yellow.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-yellow.pdf) Original size: 10.5 x 7.4cm, 300dpi
+
+![I brick Nzs](files/i-brick-nzs/i-brick-nzs-white.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-white.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-white.pdf) Original size: 10.5 x 7.4cm, 300dpi
+
+![I brick Nzs](files/i-brick-nzs/i-brick-nzs-black.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/i-brick-nzs/i-brick-nzs-black.pdf) Original size: 10.5 x 7.4cm, 300dpi
 
 ### Abolish Authorities
 ![Abolish Authorities](files/abolish-authorities/policecar_poster_white.png)
