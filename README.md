@@ -27,8 +27,8 @@ Download the **high-resolution files** here and do whatever you want with them. 
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.pdf) Original size: 50 x 70 cm, 300dpi
 
 ### Neurodivergent Antifascists
-![Neurodivergent Antifascists](files/neurodivergent-antifascists/neurodivergent_antifascists_red.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_red.pdf) Original size: 8.0 x 8.0 cm, 300dpi
+![Neurodivergent Antifascists](files/neurodivergent_antifascists/neurodivergent_antifascists_red.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent_antifascists/neurodivergent_antifascists_red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent_antifascists/neurodivergent_antifascists_red.pdf) Original size: 8.0 x 8.0 cm, 300dpi
 
 ![Neurodivergent Antifascists](files/neurodivergent-antifascists/neurodivergent_antifascists_bw.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_bw.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_bw.pdf) Original size: 8.0 x 8.0 cm, 300dpi
