@@ -6,6 +6,9 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Anarchist Raccoon](#anarchist-raccoon) (Poster/ Sticker)
+* [Neurodivergent Antifascists](#neurodivergent-antifascists) (Sticker)
+* [Autistic Antifascists](#autistic-antifascists) (Sticker)
 * [Caution: Queers Bash Back](#queers-bash-back) (Sticker/ Poster)
 * [I brick Nzs](#i-brick-nzs) (Sticker)
 * [Abolish Authorities](#abolish-authorities) (Poster)
@@ -18,6 +21,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Anarchist Raccoon
+![Anarchist Raccoon](files/anarchist-raccoon/anarchy_raccoon_poster.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.pdf) Original size: 50 x 70 cm, 300dpi
 
 ### Queers Bash Back
 ![Caution: Queers Bash Back](files/queers-bash-back/queers-bash-back_pink.png)
