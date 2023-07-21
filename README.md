@@ -26,6 +26,20 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ![Anarchist Raccoon](files/anarchist-raccoon/anarchy_raccoon_poster.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/anarchist-raccoon/anarchy_raccoon_poster.pdf) Original size: 50 x 70 cm, 300dpi
 
+### Neurodivergent Antifascists
+![Neurodivergent Antifascists](files/neurodivergent-antifascists/neurodivergent_antifascists_red.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_red.pdf) Original size: 8.0 x 8.0 cm, 300dpi
+
+![Neurodivergent Antifascists](files/neurodivergent-antifascists/neurodivergent_antifascists_bw.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_bw.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/neurodivergent-antifascists/neurodivergent_antifascists_bw.pdf) Original size: 8.0 x 8.0 cm, 300dpi
+
+### Autistic Antifascists
+![Autistic Antifascists](files/autistic-antifascists/autistic_antifascists_red.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/autistic-antifascists/autistic_antifascists_red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/autistic-antifascists/autistic_antifascists_red.pdf) Original size: 8.0 x 8.0 cm, 300dpi
+
+![Autistic Antifascists](files/autistic-antifascists/autistic_antifascists_bw.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/autistic-antifascists/autistic_antifascists_bw.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/autistic-antifascists/autistic_antifascists_bw.pdf) Original size: 8.0 x 8.0 cm, 300dpi
+
 ### Queers Bash Back
 ![Caution: Queers Bash Back](files/queers-bash-back/queers-bash-back_pink.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/queers-bash-back/queers-bash-back_pink.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/queers-bash-back/queers-bash-back_pink.pdf) Original size: 7.4 x 10.5cm, 300dpi
