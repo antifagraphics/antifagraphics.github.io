@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Riots Work](#riots-work) (Sticker)
 * [Cats Against Catcalls](#cats-against-catcalls) (Poster)
 * [Anarchist Raccoon](#anarchist-raccoon) (Poster/ Sticker)
 * [Neurodivergent Antifascists](#neurodivergent-antifascists) (Sticker)
@@ -22,6 +23,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Riots Work
+![Riots Work](files/riots-work/riots-work.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/riots-work/riots-work.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/riots-work/riots-work.pdf) Original size: 10.5 x 7.4 cm, 300dpi
 
 ### Cats Against Catcalls
 ![Cats Against Catcalls](files/cats-against-catcalls/cats-against-catcalls-black.png)
