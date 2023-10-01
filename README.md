@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Rioting people](#rioting-people) (Poster)
 * [No Nazis](#no-nazis) (Poster)
 * [Fascist, you've got mail!](#fascist-youve-got-mail) (Poster)
 * [Riots Work](#riots-work) (Sticker)
@@ -25,6 +26,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Rioting people
+![Rioting people](files/rioting-people/rioting-people-illustration.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/rioting-people/rioting-people-illustration.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/rioting-people/rioting-people-illustration.pdf) Original size: 29.7 x 42.0 cm, 300dpi
 
 ### No Nazis
 ![No Nazis](files/no-nazis-rabbit/no-nazis-rabbit.png)
