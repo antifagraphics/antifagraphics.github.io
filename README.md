@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Shoplifting is healthcare](#shoplifting-is-healthcare) (Poster)
 * [Rioting people](#rioting-people) (Poster)
 * [No Nazis](#no-nazis) (Poster)
 * [Fascist, you've got mail!](#fascist-youve-got-mail) (Poster)
@@ -26,6 +27,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Shoplifting is healthcare
+![Shoplifting is healthcare](files/shoplifting-is-healthcare/shoplifting-is-healthcare-green.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/shoplifting-is-healthcare/shoplifting-is-healthcare-green.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/shoplifting-is-healthcare/shoplifting-is-healthcare-green.pdf) Original size: 29.7 x 42.0 cm, 300dpi
+
+![Shoplifting is healthcare](files/shoplifting-is-healthcare/shoplifting-is-healthcare-red.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/shoplifting-is-healthcare/shoplifting-is-healthcare-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/shoplifting-is-healthcare/shoplifting-is-healthcare-red.pdf) Original size: 29.7 x 42.0 cm, 300dpi
 
 ### Rioting people
 ![Rioting people](files/rioting-people/rioting-people-illustration.jpg)
