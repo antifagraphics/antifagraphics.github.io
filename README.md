@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Nazis own flammable cars](#nazis-own-flammable-cars) (Poster)
 * [Shoplifting is healthcare](#shoplifting-is-healthcare) (Poster)
 * [Rioting people](#rioting-people) (Poster)
 * [No Nazis](#no-nazis) (Poster)
@@ -27,6 +28,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Nazis own flammable cars
+![Nazis own flammable cars](files/nazis-own-flammable-cars/own-flammable-cars-preview.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/nazis-own-flammable-cars/own-flammable-cars.png) Original size: 3200 x 4525 px
 
 ### Shoplifting is healthcare
 ![Shoplifting is healthcare](files/shoplifting-is-healthcare/shoplifting-is-healthcare-green.jpg)
