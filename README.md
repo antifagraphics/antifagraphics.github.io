@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Free Palestine](#free-palestine) (Sticker)
 * [No Face No Case](#no-face-no-case) (Poster)
 * [Nazis own flammable cars](#nazis-own-flammable-cars) (Poster)
 * [Shoplifting is healthcare](#shoplifting-is-healthcare) (Poster)
@@ -29,6 +30,17 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Free Palestine
+made by [Laura Anastasio](https://laura-anastasio.com)
+![Free Palestine](files/free-palestine/freepalest2-pre.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-palestine/freepalest2.jpg) Original size: 4134 × 5644 px
+
+![Free Palestine](files/free-palestine/freepalest3-pre.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-palestine/freepalest3.jpg) Original size: 4134 × 5644 px
+
+![Free Palestine](files/free-palestine/freepalest4-pre.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-palestine/freepalest4.jpg) Original size: 4134 × 5644 px
 
 ### No Face No Case
 ![No Face No Case](files/no-face-no-case/no-face-no-case-color-preview.png)
