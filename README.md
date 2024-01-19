@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Genderfluids against patriarchy](#genderfluids-against-patriarchy) (Poster)
 * [Free Palestine](#free-palestine) (Sticker)
 * [No Face No Case](#no-face-no-case) (Poster)
 * [Nazis own flammable cars](#nazis-own-flammable-cars) (Poster)
@@ -30,6 +31,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Genderfluids against patriarchy
+![Genderfluids against patriarchy](files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-orange.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-orange.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-orange.pdf) Original size: 420 x 594 mm, 300dpi
+
+![Genderfluids against patriarchy](files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-bw.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-bw.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Free Palestine
 made by [Laura Anastasio](https://laura-anastasio.com)
