@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Wheatpasting Antifascists](#wheatpasting-antifascists) (Sticker)
 * [Genderfluids against patriarchy](#genderfluids-against-patriarchy) (Poster)
 * [Free Palestine](#free-palestine) (Sticker)
 * [No Face No Case](#no-face-no-case) (Poster)
@@ -31,6 +32,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Wheatpasting Antifascists
+![Wheatpasting Antifascists red](files/wheatpasting-antifascists/wheatpasting-antifascists-red.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/wheatpasting-antifascists/wheatpasting-antifascists-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/wheatpasting-antifascists/wheatpasting-antifascists-red.pdf) Original size: 100 x 100 mm, 300dpi
+
+![Wheatpasting Antifascists black](files/wheatpasting-antifascists/wheatpasting-antifascists-black.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/wheatpasting-antifascists/wheatpasting-antifascists-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/wheatpasting-antifascists/wheatpasting-antifascists-black.pdf) Original size: 100 x 100 mm, 300dpi
 
 ### Genderfluids against patriarchy
 ![Genderfluids against patriarchy](files/genderfluids-against-patriarchy/genderfluids-against-patriarchy-orange.jpg)
