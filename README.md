@@ -35,7 +35,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ## Content
 
 ### Woman Life Freedom
-![Woman Life Freedom](files/woman-life-freedom/woman-life-freedom-thumb.jpg)
+![Woman Life Freedom](files/woman-life-freedom/woman-life-freedom.jpg)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/woman-life-freedom/woman-life-freedom.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/woman-life-freedom/woman-life-freedom.pdf) Original size: 297 x 420 mm, 300dpi
 
 ### Wheatpasting Antifascists
