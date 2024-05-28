@@ -36,7 +36,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ## Content
 
 ### The rent is too high
-![The rent is too high](files/the-rent-is-too-high/the-rent-is-too-high-thumb.png)
+![The rent is too high](files/the-rent-is-too-high/the-rent-is-too-high-thumbnail.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Woman Life Freedom
