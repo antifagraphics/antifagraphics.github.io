@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [The rent is too high](#the-rent-is-too-high) (Poster)
 * [Woman Life Freedom](#woman-life-freedom) (Poster)
 * [Wheatpasting Antifascists](#wheatpasting-antifascists) (Sticker)
 * [Genderfluids against patriarchy](#genderfluids-against-patriarchy) (Poster)
@@ -33,6 +34,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### The rent is too high
+![The rent is too high](files/the-rent-is-too-high/the-rent-is-too-high-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Woman Life Freedom
 ![Woman Life Freedom](files/woman-life-freedom/woman-life-freedom.jpg)
