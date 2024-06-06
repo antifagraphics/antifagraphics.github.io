@@ -40,6 +40,12 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ![Deadly Europe](files/deadly-europe/deadly-europe-bw-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/deadly-europe/deadly-europe-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/deadly-europe/deadly-europe-bw.pdf) Original size: 297 x 420 mm, 300dpi
 
+![Deadly Europe](files/deadly-europe/deadly-europe-red-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/deadly-europe/deadly-europe-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/deadly-europe/deadly-europe-red.pdf) Original size: 297 x 420 mm, 300dpi
+
+![Deadly Europe](files/deadly-europe/deadly-europe-blue-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/deadly-europe/deadly-europe-blue.jpg) Original size: 297 x 420 mm, 300dpi
+
 ### The rent is too high
 ![The rent is too high](files/the-rent-is-too-high/the-rent-is-too-high-thumbnail.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/the-rent-is-too-high/the-rent-is-too-high.pdf) Original size: 420 x 594 mm, 300dpi
