@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Defund Police](#defund-police) (Poster)
 * [Free all Antifas](#free-all-antifas) (Poster)
 * [Deadly Europe](#deadly-europe) (Poster)
 * [The rent is too high](#the-rent-is-too-high) (Poster)
@@ -36,6 +37,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Defund Police
+![Defund Police](files/defund-police/defund-police-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/defund-police/defund-police.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/defund-police/defund-police.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Free all Antifas
 ![Free all Antifas](files/free-all-antifas/free-all-antifas-thumb.png)
