@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Inclusion woodcut](#inclusion-woodcut) (Poster)
 * [Defund Police](#defund-police) (Poster)
 * [Free all Antifas](#free-all-antifas) (Poster)
 * [Deadly Europe](#deadly-europe) (Poster)
@@ -37,6 +38,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Inclusion woodcut
+![Inclusion woodcut](files/inclusion-woodcut/inclusion-poster-preview.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/inclusion-woodcut/inclusion-poster.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/inclusion-woodcut/inclusion-poster.pdf) Original size: A1 (594 x 841 mm, 300dpi)
+
+![Inclusion woodcut](files/inclusion-woodcut/inclusion-poster-red-preview.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/inclusion-woodcut/inclusion-red-poster.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/inclusion-woodcut/inclusion-red-poster.pdf) Original size: A1 (594 x 841 mm, 300dpi)
 
 ### Defund Police
 ![Defund Police](files/defund-police/defund-police-thumb.png)
