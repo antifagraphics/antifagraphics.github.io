@@ -43,7 +43,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ### We are all antifa
 ![We are all antifa](files/we-are-all-antifa/we-are-all-antifa-thumb.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifawe-are-all-antifa/we-are-all-antifa.pdf) Original size: 105 x 148 mm, 300dpi
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifa.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifa.pdf) Original size: 105 x 148 mm, 300dpi
 
 
 ### Inclusion woodcut
