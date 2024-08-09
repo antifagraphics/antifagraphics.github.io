@@ -6,6 +6,8 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+
+* [We are all antifa](#we-are-all-antifa) (Sticker)
 * [Inclusion woodcut](#inclusion-woodcut) (Poster)
 * [Defund Police](#defund-police) (Poster)
 * [Free all Antifas](#free-all-antifas) (Poster)
@@ -38,6 +40,11 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### We are all antifa
+![We are all antifa](files/we-are-all-antifa/we-are-all-antifa-thumb.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifawe-are-all-antifa/we-are-all-antifa.pdf) Original size: 105 x 148 mm, 300dpi
+
 
 ### Inclusion woodcut
 ![Inclusion woodcut](files/inclusion-woodcut/inclusion-poster-preview.png)
