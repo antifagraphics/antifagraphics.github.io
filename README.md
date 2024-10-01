@@ -6,7 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
-
+* [Destroy Fascism](#destroy-fascism) (Poster)
 * [We are all antifa](#we-are-all-antifa) (Sticker)
 * [Inclusion woodcut](#inclusion-woodcut) (Poster)
 * [Defund Police](#defund-police) (Poster)
@@ -41,10 +41,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Content
 
+### Destroy Fascism
+![Destroy Fascism](files/destroy-fascism/destroy-fascism.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/destroy-fascism/destroy-fascism-print.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/destroy-fascism/destroy-fascism-print.pdf) Original size: 420 x 594 mm, 300dpi
+
 ### We are all antifa
 ![We are all antifa](files/we-are-all-antifa/we-are-all-antifa-thumb.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifa.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/we-are-all-antifa/we-are-all-antifa.pdf) Original size: 105 x 148 mm, 300dpi
-
 
 ### Inclusion woodcut
 ![Inclusion woodcut](files/inclusion-woodcut/inclusion-poster-preview.png)
