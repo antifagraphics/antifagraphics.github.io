@@ -6,7 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
-* [No war](#no-war) (Poster)
+* [Boycott war](#boycott-war) (Poster)
 * [Destroy Fascism](#destroy-fascism) (Poster)
 * [We are all antifa](#we-are-all-antifa) (Sticker)
 * [Inclusion woodcut](#inclusion-woodcut) (Poster)
@@ -42,15 +42,15 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Content
 
-### No war
-![No war](files/no-war/no-war-green.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-green.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-green.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+### Boycott war
+![Boycott war](files/boycott-war/no-war-green.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-green.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-green.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
-![No war](files/no-war/no-war-red.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-red.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+![Boycott war](files/boycott-war/no-war-red.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-red.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-red.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
-![No war](files/no-war/no-war-black.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-black.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-war/no-war-black.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+![Boycott war](files/boycott-war/no-war-black.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-black.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/boycott-war/no-war-black.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
 ### Destroy Fascism
 ![Destroy Fascism](files/destroy-fascism/destroy-fascism.png)
