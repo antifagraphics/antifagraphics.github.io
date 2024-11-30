@@ -45,7 +45,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ### Your vote does not count
 ![Boycott war](files/your-vote-does-not-count/your-vote-does-not-count.png)
-[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/your-vote-does-not-count/your-vote-does-not-count.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/your-vote-does-not-count/your-vote-does-not-count.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/your-vote-does-not-count/your-vote-does-not-count.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/your-vote-does-not-count/your-vote-does-not-count.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
 ### Boycott war
 ![Boycott war](files/boycott-war/no-war-green.png)
