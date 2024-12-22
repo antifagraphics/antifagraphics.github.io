@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Free all political prisoners](#free-all-political-prisoners) (Poster)
 * [Your vote does not count](#your-vote-does-not-count) (Poster)
 * [Boycott war](#boycott-war) (Poster)
 * [Destroy Fascism](#destroy-fascism) (Poster)
@@ -42,6 +43,16 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Free all political prisoners
+![Free all political prisoners](files/free-all-political-prisoners/free-all-political-prisoners-color.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-color.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+
+![Free all political prisoners](files/free-all-political-prisoners/free-all-political-prisoners-cyan.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-cyan.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-cyan.pdf) Original size: A2 (420 x 594 mm, 300dpi)
+
+![Free all political prisoners](files/free-all-political-prisoners/free-all-political-prisoners-black.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-political-prisoners/free-all-political-prisoners-black.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
 ### Your vote does not count
 ![Boycott war](files/your-vote-does-not-count/your-vote-does-not-count.png)
