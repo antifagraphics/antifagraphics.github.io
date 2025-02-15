@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [No cars in this area](#no-cars-in-this-area) (Poster/ Sticker)
 * [The rich are starving the world](#the-rich-are-starving-the-world) (Poster)
 * [Free all political prisoners](#free-all-political-prisoners) (Poster)
 * [Your vote does not count](#your-vote-does-not-count) (Poster)
@@ -44,6 +45,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### No cars in this area
+![No cars in this area](files/no-cars-in-this-area/no-cars-in-this-area-preview.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-cars-in-this-area/no-cars-in-this-area.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/no-cars-in-this-area/no-cars-in-this-area.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
 ### The rich are starving the world
 ![The rich are starving the world](files/the-rich-are-starving-the-world/the-rich-are-starving-the-world-thumb.jpg)
