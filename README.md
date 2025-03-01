@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Disability justice](#disability-justice) (Poster)
 * [No cars in this area](#no-cars-in-this-area) (Poster/ Sticker)
 * [The rich are starving the world](#the-rich-are-starving-the-world) (Poster)
 * [Free all political prisoners](#free-all-political-prisoners) (Poster)
@@ -45,6 +46,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Disability justice
+![Disability Justice](files/disability-justice/disability-justice-preview.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/disability-justice/disability-justice.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/disability-justice/disability-justice.pdf) Original size: A2 (420 x 594 mm, 300dpi)
 
 ### No cars in this area
 ![No cars in this area](files/no-cars-in-this-area/no-cars-in-this-area-preview.png)
