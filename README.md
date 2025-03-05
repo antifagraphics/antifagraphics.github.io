@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Feminist solidarity](#feminist-solidarity) (Sticker)
 * [Disability justice](#disability-justice) (Poster)
 * [No cars in this area](#no-cars-in-this-area) (Poster/ Sticker)
 * [The rich are starving the world](#the-rich-are-starving-the-world) (Poster)
@@ -46,6 +47,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Feminist Solidarity
+![Feminist Solidarity](files/feminist-solidarity/feminist-solidarity-preview.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/feminist-solidarity/feminist-solidarity.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/feminist-solidarity/feminist-solidarity.pdf) Original size: 148 x 50 mm, 300dpi
 
 ### Disability justice
 ![Disability Justice](files/disability-justice/disability-justice-preview.png)
