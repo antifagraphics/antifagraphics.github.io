@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Abolish](#abolish) (Sticker)
 * [Feminist solidarity](#feminist-solidarity) (Sticker)
 * [Disability justice](#disability-justice) (Poster)
 * [No cars in this area](#no-cars-in-this-area) (Poster/ Sticker)
@@ -47,6 +48,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Abolish
+![Abolish](files/abolish/abolish-preview.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish/abolish.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/abolish/abolish.pdf) Original size: 105 x 74 mm, 300dpi
 
 ### Feminist Solidarity
 ![Feminist Solidarity](files/feminist-solidarity/feminist-solidarity-preview.png)
