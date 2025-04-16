@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Down with the occupation – up with the liberation](#down-with-the-occupation-up-with-the-liberation) (Poster)
 * [Abolish](#abolish) (Sticker)
 * [Feminist solidarity](#feminist-solidarity) (Sticker)
 * [Disability justice](#disability-justice) (Poster)
@@ -48,6 +49,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Down with the occupation – up with the liberation
+![Down with the occupation – up with the liberation](files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-yellow.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-yellow.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-yellow.pdf) Original size: 420 x 594 mm, 300dpi
+
+![Down with the occupation – up with the liberation](files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-pink.png)
+[Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-pink.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/down-with-the-occupation-up-with-the-liberation/down-with-the-occupation-pink.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Abolish
 ![Abolish](files/abolish/abolish-preview.png)
