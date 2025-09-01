@@ -6,7 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
-* [You can't hide genocide](#you-can-t-hide-genocide) (Poster)
+* [You can't hide genocide](#you-cant-hide-genocide) (Poster)
 * [Remember Ramy](#remember-ramy) (Poster)
 * [Per un livido a uno sbirro](#per-un-livido-a-uno-sbirro) (Poster)
 * [Ni una menos](#ni-una-menos) (Poster)
