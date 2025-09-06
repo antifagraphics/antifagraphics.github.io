@@ -1,7 +1,7 @@
 # Antifa Graphics Archive
 
 Download the **high-resolution files** here and do whatever you want with them. You can use the files and print them yourself or even edit and redistribute them.
-**Anti-Copyright! Reprint freely, in any manner desired, even without naming the source.**
+**Anti-Copyright! Reprint freely, in any manner desired, even without naming the source.** The source code for this website is available on [GitHub](https://github.com/antifagraphics/antifagraphics.github.io)
 
 
 ## Overview list
@@ -300,3 +300,5 @@ made by [Laura Anastasio](https://laura-anastasio.com)
 ### Antifa Zone — Always Antifascist
 ![Antifa Zone Sticker](files/antifazone/antifazone.png)
 [Download PNG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifazone/antifazone.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifazone/antifazone.pdf) Original size: 14.8 x 5.0cm, 300dpi
+
+Source code available on GitHub (owned by Microsoft): https://github.com/antifagraphics/antifagraphics.github.io
