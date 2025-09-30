@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Dump Trump](#dump-trump) (Poster)
 * [You can't hide genocide](#you-cant-hide-genocide) (Poster)
 * [Remember Ramy](#remember-ramy) (Poster)
 * [Per un livido a uno sbirro](#per-un-livido-a-uno-sbirro) (Poster)
@@ -53,6 +54,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Dump Trump
+![Dump Trump](files/dump-trump/dump-trump-thumbnail.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/dump-trump/dump-trump.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/dump-trump/dump-trump.pdf) Original size: 297 x 420 mm, 300dpi
 
 ### You can't hide genocide
 ![You can't hide genocide](files/you-cant-hide-genocide/you-cant-hide-thumb.png)
