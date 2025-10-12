@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Fight war industry](#fight-war-industry) (Poster)
 * [Dump Trump](#dump-trump) (Poster)
 * [You can't hide genocide](#you-cant-hide-genocide) (Poster)
 * [Remember Ramy](#remember-ramy) (Poster)
@@ -54,6 +55,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Fight war industry
+![Fight war industry](files/fight-war-industry/fight-war-industry-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-war-industry/fight-war-industry-a2.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-war-industry/fight-war-industry-a2.pdf) Original size: 420 x 594 mm, 300dpi
 
 ### Dump Trump
 ![Dump Trump](files/dump-trump/dump-trump-thumbnail.png)
