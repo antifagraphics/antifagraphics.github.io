@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Free all Antifas](#free-all-antifas-birds) (Poster)
 * [Fight war industry](#fight-war-industry) (Poster)
 * [Dump Trump](#dump-trump) (Poster)
 * [You can't hide genocide](#you-cant-hide-genocide) (Poster)
@@ -55,6 +56,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Free all Antifas (birds)
+![Free all Antifas](files/free-all-antifas-birds/free-all-antifas-red-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-antifas-birds/free-all-antifas-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-antifas-birds/free-all-antifas-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Free all Antifas](files/free-all-antifas-birds/free-all-antifas-black-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-antifas-birds/free-all-antifas-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/free-all-antifas-birds/free-all-antifas-black.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Fight war industry
 ![Fight war industry](files/fight-war-industry/fight-war-industry-thumb.png)
