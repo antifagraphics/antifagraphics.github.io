@@ -6,6 +6,9 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Working class struggle (resistance)](#working-class-struggle-resistance) (Poster)
+* [Poop tank](#poop-tank) (Poster)
+* [Stop Cops](#stop-cops) (Poster)
 * [Free all Antifas](#free-all-antifas-birds) (Poster)
 * [Fight war industry](#fight-war-industry) (Poster)
 * [Dump Trump](#dump-trump) (Poster)
@@ -56,6 +59,24 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Working class struggle (resistance)
+![Working class struggle](files/working-class-struggle-resistance/working-class-resistance-color-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/working-class-struggle-resistance/working-class-resistance-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/working-class-struggle-resistance/working-class-resistance-color.pdf) Original size: 297 x 420 mm, 300dpi
+
+![Working class struggle](files/working-class-struggle-resistance/working-class-resistance-black-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/working-class-struggle-resistance/working-class-resistance-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/working-class-struggle-resistance/working-class-resistance-black.pdf) Original size: 297 x 420 mm, 300dpi
+
+### Poop tank
+![Poop tank](files/poop-tank/poop-tank-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/poop-tank/poop-tank.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/poop-tank/poop-tank.pdf) Original size: 297 x 420 mm, 300dpi
+
+### Stop Cops
+![Stop Cops](files/stop-cops/stop-cops-magenta-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/stop-cops/stop-cops-magenta.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/stop-cops/stop-cops-magenta.pdf) Original size: 594 x 420 mm (with 3 mm bleed), 300dpi
+
+![Stop Cops](files/stop-cops/stop-cops-black-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/stop-cops/stop-cops-black.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/stop-cops/stop-cops-black.pdf) Original size: 594 x 420 mm (with 3 mm bleed), 300dpi
 
 ### Free all Antifas (birds)
 ![Free all Antifas](files/free-all-antifas-birds/free-all-antifas-red-thumb.png)
