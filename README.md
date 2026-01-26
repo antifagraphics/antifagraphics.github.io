@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Riseup for Rojava](#riseup-for-rojava) (Poster)
 * [Working class struggle (resistance)](#working-class-struggle-resistance) (Poster)
 * [Poop tank](#poop-tank) (Poster)
 * [Stop Cops](#stop-cops) (Poster)
@@ -59,6 +60,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Riseup for Rojava
+![Riseup for Rojava](files/riseup-for-rojava/riseup-for-rojava-thumbnail.jpg)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/riseup-for-rojava/riseup-for-rojava.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/riseup-for-rojava/riseup-for-rojava.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Working class struggle (resistance)
 ![Working class struggle](files/working-class-struggle-resistance/working-class-resistance-color-thumb.png)
