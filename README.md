@@ -6,6 +6,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Revolutionary feminism is class-conscious](#revolutionary-feminism-is-class-conscious) (Poster)
 * [Never talk to the cops](#never-talk-to-the-cops) (Poster)
 * [Riseup for Rojava](#riseup-for-rojava) (Poster)
 * [Working class struggle (resistance)](#working-class-struggle-resistance) (Poster)
@@ -61,6 +62,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Revolutionary feminism is class-conscious
+![Revolutionary feminism is class-conscious](files/revolutionary-feminism-is-class-conscious/revolutionary-feminism-is-class-conscious-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/revolutionary-feminism-is-class-conscious/revolutionary-feminism-is-class-conscious.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/revolutionary-feminism-is-class-conscious/revolutionary-feminism-is-class-conscious.pdf) Original size: 594 x 420 mm (with 3 mm bleed), 300dpi
 
 ### Never talk to the cops
 ![Never talk to the cops](files/never-talk-to-the-cops/never-talk-to-the-cops-color-thumb.png)
