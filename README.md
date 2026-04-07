@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Silencing can't divide us!](#silencing-cant-divide-us) (Poster)
 * [No ICE](#no-ice) (Poster)
 * [Revolutionary feminism is class-conscious](#revolutionary-feminism-is-class-conscious) (Poster)
 * [Never talk to the cops](#never-talk-to-the-cops) (Poster)
@@ -65,6 +66,16 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Silencing can't divide us!
+![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-color-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-color.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-red-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-bw-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### No ICE
 ![No ICE](files/no-ice/no-ice-thumb.jpg)
