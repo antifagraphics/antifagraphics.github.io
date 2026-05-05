@@ -70,23 +70,23 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ### Capitalism is a death cult
 ![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Silencing can't divide us!
 ![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-color-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-color.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-color.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-red-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ![Silencing can't divide us!](files/silencing-cant-divide-us/silencing-cant-divide-us-bw-thumb.png)
-[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/silencing-cant-divide-us/silencing-cant-divide-us-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/silencing-cant-divide-us/silencing-cant-divide-us-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### No ICE
 ![No ICE](files/no-ice/no-ice-thumb.jpg)
