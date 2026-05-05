@@ -72,10 +72,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
-![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblackthumb.png)
+![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowblack.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
-![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-ybw-thumb.png)
+![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Silencing can't divide us!
