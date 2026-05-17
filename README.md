@@ -70,6 +70,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ## Content
 
 ### How to kill a tank
+made by [2084](https://instagram.com/the_year_2084)
 ![How to kill a tank](files/how-to-kill-a-tank/howtokillatank-thumb.png)
 [Download PDF color](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/how-to-kill-a-tank/HOWTOKILLATANKCOLORED.pdf), [Download PDF black/white](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/how-to-kill-a-tank/HOWTOKILLATANK-BW.pdf) Original size: 297 x 210 mm, double-sided
 
