@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [How to kill a tank](#how-to-kill-a-tank) (Flyer/ Game)
 * [Capitalism is a death cult](#capitalism-is-a-death-cult) (Poster)
 * [Silencing can't divide us!](#silencing-cant-divide-us) (Poster)
 * [No ICE](#no-ice) (Poster)
@@ -67,6 +68,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### How to kill a tank
+![How to kill a tank](files/how-to-kill-a-tank/howtokillatank-thumb.png)
+[Download PDF color](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/how-to-kill-a-tank/HOWTOKILLATANKCOLORED.pdf), [Download PDF black/white](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/how-to-kill-a-tank/HOWTOKILLATANK-BW.pdf) Original size: 297 x 210 mm, double-sided
 
 ### Capitalism is a death cult
 ![Capitalism is a death cult](files/capitalism-is-a-death-cult/capitalism-is-a-death-cult-yellowpink-thumb.png)
