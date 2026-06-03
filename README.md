@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Fight your local ra*ist](#fight-your-local-ra*ist) (Poster)
 * [How to kill a tank](#how-to-kill-a-tank) (Flyer/ Game)
 * [Capitalism is a death cult](#capitalism-is-a-death-cult) (Poster)
 * [Silencing can't divide us!](#silencing-cant-divide-us) (Poster)
@@ -68,6 +69,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Fight your local ra*ist
+![Fight your local ra*ist](files/fight-your-local-racist/fight-your-local-racist-color-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-your-local-racist/fight-your-local-racist-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-your-local-racist/fight-your-local-racist-color.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Fight your local ra*ist](files/fight-your-local-racist/fight-your-local-racist-bw-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-your-local-racist/fight-your-local-racist-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/fight-your-local-racist/fight-your-local-racist-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### How to kill a tank
 made by [2084](https://instagram.com/the_year_2084)
