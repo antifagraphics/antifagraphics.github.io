@@ -8,7 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
-* [Fight your local rapist](#fight-your-local-rapist-racist) (Poster)
+* [Fight your local rapist](#fight-your-local-rapistracist) (Poster)
 * [How to kill a tank](#how-to-kill-a-tank) (Flyer/ Game)
 * [Capitalism is a death cult](#capitalism-is-a-death-cult) (Poster)
 * [Silencing can't divide us!](#silencing-cant-divide-us) (Poster)
