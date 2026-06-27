@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Trans Liberation Now!](#trans-liberation-now) (Poster)
 * [Fight your local rapist](#fight-your-local-rapistracist) (Poster)
 * [How to kill a tank](#how-to-kill-a-tank) (Flyer/ Game)
 * [Capitalism is a death cult](#capitalism-is-a-death-cult) (Poster)
@@ -69,6 +70,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Trans Liberation Now!
+![Trans Liberation Now!](files/trans-liberation-now/trans-liberation-now-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/trans-liberation-now/trans-liberation-now.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/trans-liberation-now/trans-liberation-now.pdf) Original size: 297 x 420 mm, 300dpi
 
 ### Fight your local rapist/racist
 ![Fight your local ra*ist](files/fight-your-local-racist/fight-your-local-racist-color-thumb.png)
