@@ -76,7 +76,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ![Class War](files/class-war/class-war-color-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/class-war/class-war-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/class-war/class-war-color.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
-![Class War](files/class-war/class-war-cbw-thumb.png)
+![Class War](files/class-war/class-war-bw-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/class-war/class-war-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/class-war/class-war-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Trans Liberation Now!
