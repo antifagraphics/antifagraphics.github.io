@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Antifa bottle](#antifa-bottle) (Poster)
 * [Class War](#class-war) (Poster)
 * [Trans Liberation Now!](#trans-liberation-now) (Poster)
 * [Fight your local rapist](#fight-your-local-rapistracist) (Poster)
@@ -71,6 +72,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Antifa bottle
+![Antifa bottle color](files/antifa-bottle/antifa-bottle-color-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifa-bottle/antifa-bottle-color.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifa-bottle/antifa-bottle-color.pdf) Original size: 210 x 297 mm (with 3 mm bleed), 300dpi
+
+![Antifa bottle black/white](files/antifa-bottle/antifa-bottle-bw-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifa-bottle/antifa-bottle-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/antifa-bottle/antifa-bottle-bw.pdf) Original size: 210 x 297 mm (with 3 mm bleed), 300dpi
 
 ### Class War
 ![Class War](files/class-war/class-war-color-thumb.png)
