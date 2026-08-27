@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Socialists into the unions: Kickin' ass for the working class!](#socialists-into-the-unions-kickin-ass-for-the-working-class) (Poster)
 * [Antifa bottle](#antifa-bottle) (Poster)
 * [Class War](#class-war) (Poster)
 * [Trans Liberation Now!](#trans-liberation-now) (Poster)
@@ -72,6 +73,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Socialists into the unions: Kickin' ass for the working class!
+![Socialists into the unions: Kickin' ass for the working class! color](files/socialists-into-the-unions/socialists-into-the-unions-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/socialists-into-the-unions/socialists-into-the-unions.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/socialists-into-the-unions/socialists-into-the-unions.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Socialists into the unions: Kickin' ass for the working class! blacK/white](files/socialists-into-the-unions/socialists-into-the-unions-bw-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/socialists-into-the-unions/socialists-into-the-unions-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/socialists-into-the-unions/socialists-into-the-unions-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Antifa bottle
 ![Antifa bottle color](files/antifa-bottle/antifa-bottle-color-thumb.png)
