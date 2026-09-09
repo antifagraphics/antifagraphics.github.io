@@ -8,12 +8,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Soft Bodies](#soft-bodies) (Game/ Zine)
 * [Socialists into the unions: Kickin' ass for the working class!](#socialists-into-the-unions-kickin-ass-for-the-working-class) (Poster)
 * [Antifa bottle](#antifa-bottle) (Poster)
 * [Class War](#class-war) (Poster)
 * [Trans Liberation Now!](#trans-liberation-now) (Poster)
 * [Fight your local rapist](#fight-your-local-rapistracist) (Poster)
-* [How to kill a tank](#how-to-kill-a-tank) (Flyer/ Game)
+* [How to kill a tank](#how-to-kill-a-tank) (Game/ Flyer)
 * [Capitalism is a death cult](#capitalism-is-a-death-cult) (Poster)
 * [Silencing can't divide us!](#silencing-cant-divide-us) (Poster)
 * [No ICE](#no-ice) (Poster)
@@ -73,6 +74,10 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Soft Bodies
+![Soft Bodies](files/soft-bodies/soft-bodies-thumb.webp)
+[Download Download Digital Version](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/soft-bodies/Soft-Bodies-Digital.pdf), [Download Print Version](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/soft-bodies/Soft-Bodies-Print.pdf) Original size: 297 x 210 mm, 300dpi
 
 ### Socialists into the unions: Kickin' ass for the working class!
 ![Socialists into the unions: Kickin' ass for the working class! color](files/socialists-into-the-unions/socialists-into-the-unions-thumb.png)
