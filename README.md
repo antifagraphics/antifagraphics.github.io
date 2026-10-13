@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [Crush ICE](#crush-ice) (Poster)
 * [Soft Bodies](#soft-bodies) (Game/ Zine)
 * [Socialists into the unions: Kickin' ass for the working class!](#socialists-into-the-unions-kickin-ass-for-the-working-class) (Poster)
 * [Antifa bottle](#antifa-bottle) (Poster)
@@ -74,6 +75,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 * [Antifa Zone — Always Antifascist](#antifa-zone--always-antifascist) (Sticker)
 
 ## Content
+
+### Crush ICE
+![Crush ICE](files/crush-ice/crush-ice-red-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
+
+![Crush ICE](files/crush-ice/crush-ice-bw-thumb.png)
+[Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Soft Bodies
 ![Soft Bodies](files/soft-bodies/soft-bodies-thumb.webp)
