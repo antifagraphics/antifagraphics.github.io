@@ -80,7 +80,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 ### jusqu'ici tout va bien
 made by [Vincenzo Zucco](https://readymag.website/u2971172531/6563521/)
 ![jusqu'ici tout va bien](files/jusquici-tout-va-bien/jusquici-tout-va-bien-thumb.png)
-[Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/jusquici-tout-va-bien/jusquici-tout-va-bien.png), License: Creative Commons Attribution-ShareAlike 4.0, Original size: 297 x 420 mm, 300dpi
+[Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/jusquici-tout-va-bien/jusquici-tout-va-bien.pdf), License: Creative Commons Attribution-ShareAlike 4.0, Original size: 297 x 420 mm, 300dpi
 
 ### Crush ICE
 made by [2084](https://instagram.com/the_year_2084)
