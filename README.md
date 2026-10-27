@@ -8,6 +8,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Overview list
 
+* [jusqu'ici tout va bien](#jusquici-tout-va-bien) (Poster)
 * [Crush ICE](#crush-ice) (Poster)
 * [Soft Bodies](#soft-bodies) (Game/ Zine)
 * [Socialists into the unions: Kickin' ass for the working class!](#socialists-into-the-unions-kickin-ass-for-the-working-class) (Poster)
@@ -76,7 +77,13 @@ Download the **high-resolution files** here and do whatever you want with them. 
 
 ## Content
 
+### jusqu'ici tout va bien
+made by [Vincenzo Zucco](https://readymag.website/u2971172531/6563521/)
+![jusqu'ici tout va bien](files/jusquici-tout-va-bien/jusquici-tout-va-bien-thumb.png)
+[Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/jusquici-tout-va-bien/jusquici-tout-va-bien.png), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-red.pdf), License: Creative Commons Attribution-ShareAlike 4.0, Original size: 297 x 420 mm, 300dpi
+
 ### Crush ICE
+made by [2084](https://instagram.com/the_year_2084)
 ![Crush ICE](files/crush-ice/crush-ice-red-thumb.png)
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-red.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-red.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
@@ -84,6 +91,7 @@ Download the **high-resolution files** here and do whatever you want with them. 
 [Download JPG](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-bw.jpg), [Download PDF](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/crush-ice/crush-ice-bw.pdf) Original size: 420 x 594 mm (with 3 mm bleed), 300dpi
 
 ### Soft Bodies
+made by [2084](https://instagram.com/the_year_2084)
 ![Soft Bodies](files/soft-bodies/soft-bodies-thumb.webp)
 [Download Download Digital Version](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/soft-bodies/Soft-Bodies-Digital.pdf), [Download Print Version](https://github.com/antifagraphics/antifagraphics.github.io/raw/main/files/soft-bodies/Soft-Bodies-Print.pdf) Original size: 297 x 210 mm, 300dpi
 
